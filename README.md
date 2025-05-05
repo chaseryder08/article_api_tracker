@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project simulates a tool designed to track the time it takes for support knowledge articles to be published after a defect is confirmed. It is based on real-world use at IDBS, where the goal is to optimize the process of article creation and publishing.
+This project simulates a tool designed to track the time it takes for support knowledge articles to be published after a defect is confirmed. As a Support Analyst at IDBS, I lead a high-priority Key Performance Indicator (HPKI) initiative aimed at reducing the time it takes to publish support articles. I developed this tool to help streamline and optimize the article creation and publishing process.
 
 ## Workflow
 
@@ -16,7 +16,7 @@ The main objective is to track the time from when an article is created (Draft) 
 
 ## Purpose
 
-This project helps identify delays in the article publishing process, uncovering their causes to drive better performance and reduce time to publish.
+This tool helps identify delays in the article publishing process, uncovering their causes to drive better performance and reduce time to publish. It supports the HPKI initiative by providing insights into bottlenecks and contributing to more efficient workflows.
 
 ## Future Enhancements
 
@@ -29,4 +29,3 @@ This project helps identify delays in the article publishing process, uncovering
 - **Python** (Programming Language)
 - Optional future integrations (AI, Email Notifications)
 
-Feel free to contribute or explore how this tool can be enhanced further!
