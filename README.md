@@ -2,9 +2,7 @@
 
 ## Overview
 
-This project simulates a tool designed to track the time it takes for support knowledge articles to be published after a defect is confirmed. As a Support Analyst at IDBS, I lead a high-priority Key Performance Indicator (HPKI) initiative aimed at reducing the time it takes to publish support articles. This lightweight internal API helps support teams track article turnaround time, flag delays, and streamline publishing workflows.
-
-## Workflow
+This project simulates a tool designed to track the time it takes for support knowledge articles to be published after a defect is confirmed. As a Support Analyst at IDBS, I lead a high-priority Key Performance Indicator (HPKI) initiative aimed at reducing the time it takes to publish defect knowledge articles. Thi lightweight internal API helps support teams track article turnaround time, flag delays, and streamline publishing workflows. Designed to improve internal accountability and reduce bottlenecks.
 
 The tool follows the stages of an article's lifecycle:
 1. **Draft** - Article draft is created in Salesforce.
